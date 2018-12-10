@@ -1,0 +1,1 @@
+The program will use flask module to create a static website
